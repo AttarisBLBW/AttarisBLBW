@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/34220e95746151.5e9ecde696cb0.gif)](https://www.behance.net/gallery/95746151/WIJMOBIEL-GIF-ANIMATED-BANNERS)
 <h1 align="center">Hey there 👋, I'm Mykolas.</h1>
 <h3 align="center">I'm freshly minted Data Analyst from Lithuania.</h3>
-(img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://photos.app.goo.gl/fQia9wS88DyovXN67)")
+(img align="right" alt="Coding" width="400" src="https://photos.app.goo.gl/A1B4ef6gsMb2xLcB6")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attarisblbw&label=Profile%20views&color=0e75b6&style=flat" alt="attarisblbw" /> </p>
 
