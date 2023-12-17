@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=attarisblbw&label=Profile%20views&color=0e75b6&style=flat" alt="attarisblbw" /> </p>
 
-- 💬 Ask me about **Data analytics, cooking or all things audio :)**
+- 💬 Ask me about **Data analytics, bicycles, cooking or all things audio :)**
 
 - 📫 How to reach me **mykolas.satas@gmail.com**
 
