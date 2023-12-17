@@ -1,3 +1,4 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F95746151%2FWIJMOBIEL-GIF-ANIMATED-BANNERS&psig=AOvVaw2DPiq8pxKPVlDsSLntWm6A&ust=1702939200038000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCJj52IrFl4MDFQAAAAAdAAAAABDAAQ)]
 <h1 align="center">Hey there 👋, I'm Mykolas.</h1>
 <h3 align="center">I'm freshly minted Data Analyst from Lithuania.</h3>
 
